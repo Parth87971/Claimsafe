@@ -1,0 +1,20 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Env / secrets
+.env
+
+# Uploads
+uploads/
+
+# Frontend
+node_modules/
+dist/
+
+# Tools
+.cursor/
+.claude/
+.claude.json*
